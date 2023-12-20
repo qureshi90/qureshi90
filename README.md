@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a self-taught Frontend Engineer having 3 years of experience designing and building web and mobile apps. I am working in React and React Native frameworks and using Tailwind CSS to create a user-friendly design. I also have experience with state management tools like Redux and sound knowledge of Git.
+
 <!--
 **qureshi90/qureshi90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
