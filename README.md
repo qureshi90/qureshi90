@@ -6,6 +6,7 @@ I am a self-taught Frontend Engineer having 3 years of experience designing and 
 <p align="left">
   <a href="https://linkedin.com/in/waqarqureshi90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waqarqureshi90" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/14952903/waqar-qureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/14952903/waqar-qureshi" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/qureshi90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="qureshi90" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
